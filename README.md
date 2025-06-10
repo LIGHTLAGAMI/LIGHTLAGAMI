@@ -1,30 +1,68 @@
 <h1 align="center">Hi 👋, I'm MANUPRASAD M.B</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Passionate Frontend Developer | Tech Explorer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lightlagami&label=Profile%20views&color=0e75b6&style=flat" alt="lightlagami" /> </p>
-
-- 🔭 I’m currently working on [Voice-Controlled Cloud File Organizer](file:///C:/Users/bvche/Downloads/resume%20project/cloud%20project/nothing.html)
-
-- 🌱 I’m currently learning **machine learning**
-
-- 👯 I’m looking to collaborate on [Web Development](file:///C:/Users/bvche/Downloads/resume%20project/portfolio%20generator/newaddedfeature.html)
-
-- 💬 Ask me about **java , html , css , java script , python**
-
-- 📫 How to reach me **lightlagami99@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manuprasad mb cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuprasad mb cse" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rebuilding yourself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rebuilding yourself" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manuprasadmb_cs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manuprasadmb_cs1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/light_lagami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="light_lagami" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lightlagami&label=Profile%20views&color=0e75b6&style=flat" alt="lightlagami" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightlagami&show_icons=true&locale=en&layout=compact" alt="lightlagami" /></p>
+- 🔭 Currently working on **Voice-Controlled Cloud File Organizer**  
+- 🌱 Actively learning **Machine Learning** and diving into **AI & Automation**  
+- 🤝 Open to collaboration in **Web Development**, **Open Source Projects**, and **Tech Communities**  
+- 💬 Ask me about: `Java`, `HTML`, `CSS`, `JavaScript`, `Python`  
+- 📫 Reach me at: **lightlagami99@gmail.com**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lightlagami&" alt="lightlagami" /></p>
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/manuprasadmbcse" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@rebuildingyourself" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-Subscribe-red?logo=youtube" alt="YouTube" />
+  </a>
+  <a href="https://www.hackerrank.com/manuprasadmb_cs1" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-Practice-green?logo=hackerrank" alt="Hackerrank" />
+  </a>
+  <a href="https://leetcode.com/light_lagami" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-orange?logo=leetcode" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages & Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lightlagami&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightlagami&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightlagami&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">✨ Quote I Live By</h3>
+<p align="center"><em>“Stay hungry, stay foolish.” — Steve Jobs</em></p>
+
 
