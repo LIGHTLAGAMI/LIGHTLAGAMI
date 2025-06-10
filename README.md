@@ -76,7 +76,14 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/lightlagami/lightlagami/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### ✨ Quote I Live By
 
 <p align="center"><em>"Stay hungry, stay foolish." — Steve Jobs</em></p>
-
